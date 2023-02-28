@@ -47,7 +47,7 @@ function Result({ correct }) {
     <div className="result">
       <img src="https://cdn-icons-png.flaticon.com/512/5511/5511415.png" />
       <h2>You answered correctly {correct} of {questions.length}</h2>
-      <a href="/">
+      <a href="https://j4rv1sgg.github.io/quiz/">
         <button>Try again</button>
       </a>
 
